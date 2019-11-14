@@ -15,6 +15,10 @@ The Backend is written in [Go](https://golang.org/) and uses [Firebase Firestore
 
 The Frontend is implemented with [VueJS](https://vuejs.org/) and connects to Firebase in order to read data and receive changes in real time, while writes are done through the Backend by calling its endpoints.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/8256604/68888541-e5306980-06f9-11ea-9456-2296e8494a3d.png" width="531" height="451">
+</p>
+
 ## Demo
 
 <img src="https://user-images.githubusercontent.com/8256604/68883480-e9578980-06ef-11ea-88b6-91fbee2a1336.gif" width="920" height="500">
