@@ -23,7 +23,7 @@ The Frontend is implemented with [VueJS](https://vuejs.org/) and connects to Fir
 
 <img src="https://user-images.githubusercontent.com/8256604/68883480-e9578980-06ef-11ea-88b6-91fbee2a1336.gif" width="920" height="500">
 
-## Setup
+## Frontend Setup
 
 ### Install `go`:
 
@@ -96,7 +96,7 @@ team env set -s "production" -n "NETLIFY_SITE_ID" -v "XXXXXXXXX"
 team env set -s "production" -n "NETLIFY_AUTH_TOKEN" -v "XXXXXXXXX"
 ```
 
-## Execution and Deployment
+## Frontend Execution / Deployment
 
 ### Run development stage:
 
@@ -110,7 +110,7 @@ make dev
 make production
 ```
 
-### Setup custom domain for the app:
+### Setup custom domain for the production stage:
 
 Follow the official instructions on the Netlify docs [here](https://www.netlify.com/docs/custom-domains/). The procedure may be different if you want to use a root domain or a subdomain for your app.
 
