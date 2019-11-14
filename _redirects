@@ -1,0 +1,4 @@
+# Netlify redirect to make HTML5 History Mode work with VueRouter
+# Ref: https://www.netlify.com/docs/redirects/#rewrites-and-proxying
+
+/* /index.html 200

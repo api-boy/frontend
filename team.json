@@ -1,0 +1,6 @@
+{
+  "project": "apiboy-frontend",
+  "store": "aws",
+  "aws_profile": "apiboy",
+  "aws_region": "us-east-2"
+}
