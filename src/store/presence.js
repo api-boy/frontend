@@ -1,5 +1,5 @@
 import _ from 'lodash'
-import UUID from 'uuid/v4'
+import { v4 as UUID } from 'uuid'
 import Utils from '../utils.js'
 
 export default {
